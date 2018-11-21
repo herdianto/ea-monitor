@@ -4,8 +4,8 @@
     },
     "database": {
         "host": "185.157.233.110",
-        "user": "eamonitor",
+        "user": "herdi",
         "password": "herdi",
-        "database": "herdi"
+        "database": "eamonitor"
     }
 }
